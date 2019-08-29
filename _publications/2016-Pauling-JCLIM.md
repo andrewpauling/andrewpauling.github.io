@@ -1,6 +1,7 @@
 ---
 title: "The response of the Southern Ocean and Antarctic sea ice to freshwater from ice shelves in an Earth system model"
 collection: publications
+pubtype: 'published'
 permalink: /publication/2016-Pauling-JCLIM
 excerpt: ''
 date: 2016-03-01

@@ -1,6 +1,7 @@
 ---
 title: "Time‐Dependent Freshwater Input From Ice Shelves: Impacts on Antarctic Sea Ice and the Southern Ocean in an Earth System Model"
 collection: publications
+pubtype: 'published'
 permalink: /publication/2017-Pauling-GRL
 excerpt: ''
 date: 2017-10-28

@@ -11,14 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Submitted<h2>
+<h2>Submitted</h2>
 {% for post in site.publications reversed %}
    {% if post.pubtype == 'submitted' %}
       {% include archive-single.html %}
    {% endif %}
 {% endfor %}
 
-<h2>Published<h2>
+<h2>Published</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'published' %}
     {% include archive-single.html %}

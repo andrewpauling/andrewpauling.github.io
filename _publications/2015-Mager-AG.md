@@ -1,6 +1,7 @@
 ---
 title: "A framework for estimating anchor ice extent at potential formation sites in McMurdo Sound, Antarctica"
 collection: publications
+pubtype: 'published'
 permalink: /publication/2015-Mager-AG
 excerpt: ''
 date: 2015-01-01

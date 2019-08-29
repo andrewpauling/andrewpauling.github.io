@@ -1,6 +1,7 @@
 ---
 title: "Towards a process model for predicting potential anchor ice formation sites in coastal Antarctic waters"
 collection: publications
+pubtype: 'published'
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2014-05-28
