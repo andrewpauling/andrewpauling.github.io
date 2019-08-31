@@ -56,12 +56,19 @@ Scholarships and Awards
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * MATLAB - advanced
+  * Python - intermediate
+  * Fortran - beginner
+* Climate Modelling
+  * Running the Community Earth System Model on HPC systems in New Zealand and the USA
+  * Editing model source code to implement scientific experiments in the model
+  * Using simpler model configurations such as slab-ocean, fixed SST, dry dynamical core and moist aquaplanet configurations
+* Software
+  * Anaconda python environment
+  * Latex typesetting software
+  * UNIX based command line environments
+  * Jupyter notebooks
 
 Publications
 ======
