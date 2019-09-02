@@ -10,5 +10,5 @@ redirect_from:
 
 I am a graduate student in the Department of Atmospheric Sciences at the University of Washington in Seattle, WA. My research focusses on the interaction between Antarctica and the global climate system. Currently I am working on the effect of Antarctic topography change on climate with Professor Cecilia Bitz and Professor Eric Steig.
 
-<img src="https://andrewpauling.github.io/images/GRaM_T_sfc_ctrltopo_movie.gif" width="500"/>
+<img src="https://github.com/andrewpauling/andrewpauling.github.io/images/GRaM_T_sfc_ctrltopo_movie.gif" width="500"/>
 
