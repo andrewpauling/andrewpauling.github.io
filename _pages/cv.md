@@ -51,6 +51,7 @@ Scholarships and Awards
 * 2017 - Runner-up Best Student Talk - New Zealand Antarctic Science Conference
 * 2015 - University of Otago Polar Environments Research Theme Travel Grant
 * 2015 - Antarctica New Zealand Kelly Tarlton's Postgraduate Scholarship
+* 2014 - University of Otago Scholarship in Science
 * 2012, 2013, 2014 - University of Otago Summer Research Scholarship
 * 2012, 2013, 2014 - Beverly Bursary in Physics
   
