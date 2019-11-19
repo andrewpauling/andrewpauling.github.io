@@ -84,10 +84,12 @@ Skills
   * Editing model source code to implement scientific experiments in the model
   * Using simpler model configurations such as slab-ocean, fixed SST, dry dynamical core and moist aquaplanet configurations
 * Software
+  * git version control
   * Anaconda python environment
+  * Pangeo python big data for geoscience platform
   * Latex typesetting software
   * UNIX based command line environments
-  * Jupyter notebooks
+  * JupyterLab and Jupyter notebooks
   
 Service and leadership
 ======
