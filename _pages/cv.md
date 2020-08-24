@@ -51,9 +51,28 @@ Scholarships and Awards
 * 2017 - Runner-up Best Student Talk - New Zealand Antarctic Science Conference
 * 2015 - University of Otago Polar Environments Research Theme Travel Grant
 * 2015 - Antarctica New Zealand Kelly Tarlton's Postgraduate Scholarship
+* 2014 - University of Otago Scholarship in Science
 * 2012, 2013, 2014 - University of Otago Summer Research Scholarship
 * 2012, 2013, 2014 - Beverly Bursary in Physics
   
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Programming
@@ -65,29 +84,16 @@ Skills
   * Editing model source code to implement scientific experiments in the model
   * Using simpler model configurations such as slab-ocean, fixed SST, dry dynamical core and moist aquaplanet configurations
 * Software
+  * git version control
   * Anaconda python environment
+  * Pangeo python big data for geoscience platform
   * Latex typesetting software
   * UNIX based command line environments
-  * Jupyter notebooks
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * JupyterLab and Jupyter notebooks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019: Member of Program on Climate Change Graduate Student Steering Committee
+* Participated in University of Washington Department of Atmospheric Sciences outreach events
+* Participated in University of Otago Department of Physics outreach events
+* Coordinator of the University of Otago Department of Physics Happy Hour
