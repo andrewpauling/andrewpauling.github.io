@@ -77,7 +77,7 @@ Skills
 ======
 * Programming
   * MATLAB - advanced
-  * Python - intermediate
+  * Python - advanced
   * Fortran - beginner
 * Climate Modelling
   * Running the Community Earth System Model on HPC systems in New Zealand and the USA
@@ -93,7 +93,8 @@ Skills
   
 Service and leadership
 ======
-* 2019: Member of Program on Climate Change Graduate Student Steering Committee
+* 2020: Member of the organizing committee for the Graduate Climate Conference - Abstract committee chair.
+* 2019-2021: Member of Program on Climate Change Graduate Student Steering Committee
 * Participated in University of Washington Department of Atmospheric Sciences outreach events
 * Participated in University of Otago Department of Physics outreach events
 * Coordinator of the University of Otago Department of Physics Happy Hour
