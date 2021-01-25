@@ -5,5 +5,5 @@ type: "Conference Poster"
 permalink: /talks/2020-GCC-poster
 venue: "Graduate Climate Conference"
 date: 2020-11-01
-location: "Online"
+location: "Virtual Conference"
 ---
