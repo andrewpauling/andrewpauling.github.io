@@ -93,6 +93,7 @@ Skills
   
 Service and leadership
 ======
+* Reviewer for Geophysical Research Letters, Earth's Future
 * 2020: Member of the organizing committee for the Graduate Climate Conference - Abstract committee chair.
 * 2019-2021: Member of Program on Climate Change Graduate Student Steering Committee
 * Participated in University of Washington Department of Atmospheric Sciences outreach events
