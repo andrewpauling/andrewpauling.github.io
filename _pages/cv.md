@@ -78,6 +78,7 @@ Skills
 * Programming
   * MATLAB - advanced
   * Python - advanced
+  * Dask and xarray within python - advanced
   * Fortran - beginner
 * Climate Modelling
   * Running the Community Earth System Model on HPC systems in New Zealand and the USA
