@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* Summer 2021: Python Development Intern
+  * Vulcan Inc
+  * Ported the RRTMG radiation scheme from Fortran to GT4Py, a domain-specific language in Python
+  
 * Winter 2019: Teaching Assistant
   * Department of Atmospheric Sciences, University of Washington
   * Class: ATMS111 - Global Warming
