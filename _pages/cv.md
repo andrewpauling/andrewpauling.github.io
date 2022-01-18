@@ -12,14 +12,20 @@ redirect_from:
 Education
 ======
 * Ph.D. in Atmospheric Sciences, University of Washington, 2022 (expected)
+* M.Sc. in Atmospheric Sciences, University of Washington, 2020
 * M.Sc. in Physics, University of Otago, 2017
 * B.Sc.(Hons) First Class in Physics, University of Otago, 2014
 * B.Sc. in Physics, University of Otago, 2013
 
 Work experience
 ======
+* Winter 2022: Teaching Assistant
+  * Department of Atmospheric Sciences, University of Washington
+  * Class: ATMS111 - Global Warming
+  * Instructor: Dr Kat Huybers
+  
 * Summer 2021: Python Development Intern
-  * Vulcan Inc
+  * Vulcan Inc/Allen Institute for Artifical Intelligence
   * Ported the RRTMG radiation scheme from Fortran to GT4Py, a domain-specific language in Python
   
 * Winter 2019: Teaching Assistant
