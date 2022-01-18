@@ -1,5 +1,5 @@
 ---
-title: "SURV 102 - Geospatial Science""
+title: "SURV 102 - Geospatial Science"
 collection: teaching
 type: "Undergraduate Class"
 permalink: /teaching/2013-SURV102-teaching
