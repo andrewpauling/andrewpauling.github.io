@@ -87,12 +87,13 @@ Teaching
 Skills
 ======
 * Programming
-  * MATLAB - advanced
-  * Python - advanced
-  * Dask and xarray within python - advanced
-  * Fortran - beginner
+  * MATLAB
+  * Python
+  * Dask and xarray within python
+  * Fortran
 * Climate Modelling
   * Running the Community Earth System Model on HPC systems in New Zealand and the USA
+  * Running various configurations of the GFDL suite of climate models on HPC system in the USA
   * Editing model source code to implement scientific experiments in the model
   * Using simpler model configurations such as slab-ocean, fixed SST, dry dynamical core and moist aquaplanet configurations
 * Software
@@ -102,6 +103,8 @@ Skills
   * Latex typesetting software
   * UNIX based command line environments
   * JupyterLab and Jupyter notebooks
+  * Github Actions and Jenkins continuous integration
+  * Google Cloud computing
   
 Service and leadership
 ======
