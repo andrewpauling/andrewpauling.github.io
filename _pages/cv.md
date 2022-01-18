@@ -44,6 +44,7 @@ Work experience
 * 2013 - 2017: Teaching Assistant
   * Department of Physics, University of Otago
   * Classes:
+    * SURV 102 - Geospatial Science
     * PHSI 191 - Biological Physics
     * PHSI 132 - Fundamentals of Physics II
     * PHSI 231 - Quantum and Thermal Physics
