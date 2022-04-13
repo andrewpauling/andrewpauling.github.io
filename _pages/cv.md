@@ -108,7 +108,7 @@ Skills
   
 Service and leadership
 ======
-* Reviewer for <em>Geophysical Research Letters</em>, <em>Earth's Future</em>, <em>Science Advances</em>
+* Reviewer for *Geophysical Research Letters*, *Earth's Future*, *Science Advances*
 * Contributed to xarray open-source python package
 * 2020: Graduate Climate Conference - Atmospheric Sciences session chair
 * 2020: Graduate Climate Conference - Organizing committee member, Abstract committee chair
