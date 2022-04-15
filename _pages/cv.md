@@ -112,6 +112,7 @@ Service and leadership
 * Contributed to xarray open-source python package
 * 2020: Graduate Climate Conference - Atmospheric Sciences session chair
 * 2020: Graduate Climate Conference - Organizing committee member, Abstract committee chair
+* 2019: IGS Sea Ice Symposium - Session co-chair
 * 2019-2021: Member of Program on Climate Change Graduate Student Steering Committee
 * Participated in University of Washington Department of Atmospheric Sciences outreach events
 * Participated in University of Otago Department of Physics outreach events
