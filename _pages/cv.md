@@ -100,6 +100,7 @@ Skills
   * git version control
   * Anaconda python environment
   * Pangeo python big data for geoscience platform
+  * PyTorch deep learning library
   * Latex typesetting software
   * UNIX based command line environments
   * JupyterLab and Jupyter notebooks
