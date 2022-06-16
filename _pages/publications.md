@@ -13,7 +13,7 @@ author_profile: true
 
 <h2>Under Review</h2>
 {% for post in site.publications reversed %}
-   {% if post.pubtype == 'under review' %}
+   {% if post.pubtype == 'review' %}
       {% include archive-single.html %}
    {& endif %}
 {% endfor %}

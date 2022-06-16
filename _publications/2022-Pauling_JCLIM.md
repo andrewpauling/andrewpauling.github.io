@@ -1,7 +1,7 @@
 ---
 title: "Non-linear climate system response to Antarctic topography change"
 collection: publications
-pubtype: 'under review'
+pubtype: 'review'
 permalink: /publication/2022-Pauling-JCLIM
 excerpt: ''
 date: 2022-06-08
