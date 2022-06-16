@@ -15,7 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
    {% if post.pubtype == 'review' %}
       {% include archive-single.html %}
-   {& endif %}
+   {% endif %}
 {% endfor %}
 
 <h2>Submitted</h2>
