@@ -15,7 +15,7 @@ author_profile: true
 {% for post in site.publication reversed %}
    {% if post.pubtype == 'accepted' %}
       {% include archive-single.html %}
-   {% include archive-single.html %}
+   {% endif %}
 {% endfor %}
 
 <h2>Under Review</h2>
