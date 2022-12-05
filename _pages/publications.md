@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Accepted</h2>
+{% for post in site.publication reversed %}
+   {% if post.pubtype == 'accepted' %}
+      {% include archive-single.html %}
+   {% include archive-single.html %}
+{% endfor %}
+
 <h2>Under Review</h2>
 {% for post in site.publications reversed %}
    {% if post.pubtype == 'review' %}

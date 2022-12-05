@@ -1,7 +1,7 @@
 ---
 title: "Antarctic ice-sheet meltwater reduces transient warming and climate sensitivity through the sea-surface temperature pattern effect"
 collection: publications
-pubtype: 'review'
+pubtype: 'accepted'
 permalink: /publication/2022-Dong-GRL
 excerpt: ''
 date: 2022-09-11
