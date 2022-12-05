@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <h2>Accepted</h2>
-{% for post in site.publication reversed %}
+{% for post in site.publications reversed %}
    {% if post.pubtype == 'accepted' %}
       {% include archive-single.html %}
    {% endif %}
