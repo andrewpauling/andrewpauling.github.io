@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Atmospheric Sciences, University of Washington, 2022 (expected)
+* Ph.D. in Atmospheric Sciences, University of Washington, 2022
 * M.Sc. in Atmospheric Sciences, University of Washington, 2020
 * M.Sc. in Physics, University of Otago, 2017
 * B.Sc.(Hons) First Class in Physics, University of Otago, 2014
@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* 2023 - Present: Research Fellow
+  * Department of Physics, University of Otago
+  
 * Winter 2022: Teaching Assistant
   * Department of Atmospheric Sciences, University of Washington
   * Class: ATMS111 - Global Warming
@@ -33,7 +36,7 @@ Work experience
   * Class: ATMS111 - Global Warming
   * Instructor: Dr Kat Huybers
   
-* 2017 - Present: Research Assistant
+* 2017 - 2022: Research Assistant
   * Department of Atmospheric Sciences, University of Washington
   * Supervisor: Professor Cecilia Bitz and Professor Eric Steig
 
