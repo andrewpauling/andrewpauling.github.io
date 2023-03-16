@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Atmospheric Sciences, University of Washington, 2022
+* Ph.D. in Atmospheric Sciences: Advanced Data Science, University of Washington, 2022
 * M.Sc. in Atmospheric Sciences, University of Washington, 2020
 * M.Sc. in Physics, University of Otago, 2017
 * B.Sc.(Hons) First Class in Physics, University of Otago, 2014
