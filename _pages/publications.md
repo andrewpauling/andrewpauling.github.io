@@ -11,28 +11,28 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Accepted</h2>
+<h2 style="color:#525CAD">Accepted</h2>
 {% for post in site.publications reversed %}
    {% if post.pubtype == 'accepted' %}
       {% include archive-single.html %}
    {% endif %}
 {% endfor %}
 
-<h2>Under Review</h2>
+<h2 style="color:#525CAD">Under Review</h2>
 {% for post in site.publications reversed %}
    {% if post.pubtype == 'review' %}
       {% include archive-single.html %}
    {% endif %}
 {% endfor %}
 
-<h2>Submitted</h2>
+<h2 style="color:#525CAD">Submitted</h2>
 {% for post in site.publications reversed %}
    {% if post.pubtype == 'submitted' %}
       {% include archive-single.html %}
    {% endif %}
 {% endfor %}
 
-<h2>Published</h2>
+<h2 style="color:#525CAD">Published</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'published' %}
     {% include archive-single.html %}
