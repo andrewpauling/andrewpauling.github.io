@@ -56,6 +56,7 @@ Work experience
 
 Scholarships and Awards
 ======
+* 2023 - International Glaciological Society Symposium on Sea Ice Travel Grant
 * 2017 - University of Washington Program on Climate Change Graduate Fellowship
 * 2017 - Top Scholar Award, Department of Atmospheric Sciences, University of Washington
 * 2017 - Douglass D. Crombie Award, Department of Physics, University of Otago
