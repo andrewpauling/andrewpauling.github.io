@@ -96,6 +96,7 @@ Skills
   * Dask and xarray within python
   * Fortran
 * Climate Modelling
+  * Running the HadGEM3-GC31-LL climate model on HPC systems in New Zealand
   * Running the Community Earth System Model on HPC systems in New Zealand and the USA
   * Running various configurations of the GFDL suite of climate models on HPC system in the USA
   * Editing model source code to implement scientific experiments in the model
@@ -115,6 +116,7 @@ Service and leadership
 ======
 * Reviewer for *Geophysical Research Letters*, *Earth's Future*, *Science Advances*, *Geoscientific Model Development*, *Journal of Geophysical Research - Oceans*, *Applied Energy*, *Polar Research*
 * Contributed to xarray open-source python package
+* 2024: Workshop on Anomalous Freshwater Fluxes for Climate Models - Organizing Committee member and session chair
 * 2020: Graduate Climate Conference - Atmospheric Sciences session chair
 * 2020: Graduate Climate Conference - Organizing committee member, Abstract committee chair
 * 2019: IGS Sea Ice Symposium - Session co-chair
