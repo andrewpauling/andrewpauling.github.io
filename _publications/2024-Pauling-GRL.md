@@ -1,7 +1,7 @@
 ---
 title: "Impacts of Antarctic Meltwater on New Zealand Climate"
 collection: publications
-pubtype: 'inrev'
+pubtype: 'review'
 permalink: /publication/2024-Pauling-GRL
 excerpt: ''
 date: 2024-06-27
