@@ -1,5 +1,5 @@
 ---
-title: "Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica""
+title: "Robustness and mechanisms of the atmospheric response over the Southern Ocean to idealized freshwater input around Antarctica"
 collection: publications
 pubtype: 'review'
 permalink: /publication/2024-Xu-GRL
