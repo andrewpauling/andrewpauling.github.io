@@ -1,10 +1,11 @@
 ---
 title: "Running a virtual global workshop" 
 collection: publications
-pubtype: 'inrev'
+pubtype: 'published'
 permalink: /publication/2024-Schmidt-EOS
 excerpt: ''
-date: 2024-05-03
+date: 2024-11-18
 venue: "AGU EOS"
-citation: "G. A. Schmidt, J. Arblaster, K. D. Mankoff, A. G. Pauling, and Qian Li, &quot;Running a virtual global workshop&quot; <i>AGU EOS</i>. (under review)"
+paperurl: "https://doi.org/10.1029/2024EO240514"
+citation: "G. A. Schmidt, J. Arblaster, K. D. Mankoff, A. G. Pauling, and Qian Li, &quot;Running a virtual global workshop&quot; <i>Eos</i>. 105"
 ---
