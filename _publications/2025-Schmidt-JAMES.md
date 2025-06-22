@@ -1,7 +1,7 @@
 ---
 title: "Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations"
 collection: publications
-pubtype: 'inrev'
+pubtype: 'review'
 permalink: /publication/2025-Schmidt-GMD
 excerpt: ''
 date: 2025-05-08
