@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Pauling"
 title_separator          : "-"
 name                     : &name "Andrew Pauling"
-description              : &description "Research Fellow in the Department of Physics at the University of Otago"
+description              : &description "Research Fellow in the Antarctic Research Centre at Victoria University of Wellington"
 url                      : https://andrewpauling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrewpauling/andrewpauling.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Andrew Pauling"
   avatar           : "thumbnail_IMG_0879_cropped.jpg"
-  bio              : "Research Fellow in the Department of Physics at the University of Otago"
-  location         : "Dunedin, NZ"
+  bio              : "Research Fellow in the Antarctic Research Centre at Victoria University of Wellington"
+  location         : "Wellington, NZ"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A3A1xZ0AAAAJ&hl=en"
