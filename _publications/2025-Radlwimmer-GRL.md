@@ -1,7 +1,7 @@
 ---
 title: "Increasing Winter Storminess in the Southern Ross Sea, Antarctica"
 collection: publications
-pubtype: 'submitted'
+pubtype: 'review'
 permalink: /publication/2025-Radlwimmer-GRL
 excerpt: ''
 date: 2025-09-09

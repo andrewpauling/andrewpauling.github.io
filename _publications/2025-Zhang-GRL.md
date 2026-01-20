@@ -1,7 +1,7 @@
 ---
 title: "Robust yet Diverse Tropical Reponses to Antarctic Meltwater Across Models"
 collection: publications
-pubtype: 'submitted'
+pubtype: 'review'
 permalink: /publication/2025-Zhang-GRL
 excerpt: ''
 date: 2025-10-30
