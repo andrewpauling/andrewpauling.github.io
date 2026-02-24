@@ -19,7 +19,13 @@ Education
 
 Work experience
 ======
-* 2023 - Present: Research Fellow
+* 2025 - Present: Research Fellow
+  * Antarctic Research Centre, Victoria University of Wellington
+
+* 2025 - Present: Honorary Research Fellow
+  * Department of Physics, University of Otago
+  
+* 2023 - 2025: Research Fellow
   * Department of Physics, University of Otago
   
 * Winter 2022: Teaching Assistant
